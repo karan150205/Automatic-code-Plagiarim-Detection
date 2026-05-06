@@ -1,6 +1,6 @@
 # Automatic-code-Plagiarim-Detection
 A robust, NLP-powered tool designed to detect structural and semantic similarities between source code files across multiple programming languages.
-🚀 Key Features & Upgrades
+##🚀 Key Features & Upgrades
 Multi-Layer Similarity Engine: Implements a dual-detection protocol using Winnowing (MOSS-style fingerprinting) for rapid text overlap and Abstract Syntax Tree (AST) hashing to detect logic-level copying.
 
 Boilerplate Filtering & Whitening: Features an intelligent "Base Code" exclusion layer that prevents false positives by ignoring instructor-provided templates or common library imports.
